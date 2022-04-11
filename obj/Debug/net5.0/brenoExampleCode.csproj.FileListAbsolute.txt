@@ -1,0 +1,15 @@
+/Users/nickcarver/cloned-repos/brenoExampleCode/bin/Debug/net5.0/brenoExampleCode.deps.json
+/Users/nickcarver/cloned-repos/brenoExampleCode/bin/Debug/net5.0/brenoExampleCode.runtimeconfig.json
+/Users/nickcarver/cloned-repos/brenoExampleCode/bin/Debug/net5.0/brenoExampleCode.runtimeconfig.dev.json
+/Users/nickcarver/cloned-repos/brenoExampleCode/bin/Debug/net5.0/brenoExampleCode.dll
+/Users/nickcarver/cloned-repos/brenoExampleCode/bin/Debug/net5.0/ref/brenoExampleCode.dll
+/Users/nickcarver/cloned-repos/brenoExampleCode/bin/Debug/net5.0/brenoExampleCode.pdb
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.csproj.AssemblyReference.cache
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.AssemblyInfoInputs.cache
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.AssemblyInfo.cs
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.csproj.CoreCompileInputs.cache
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.dll
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/ref/brenoExampleCode.dll
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.pdb
+/Users/nickcarver/cloned-repos/brenoExampleCode/obj/Debug/net5.0/brenoExampleCode.genruntimeconfig.cache
